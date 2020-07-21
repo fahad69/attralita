@@ -1,8 +1,0 @@
-title: Coursera2
-description: testing again
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-mentions
