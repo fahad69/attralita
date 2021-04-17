@@ -1,2 +1,2 @@
 # Attralita
-https://fahad69.github.io/attralita
+https://abdurrahmanfahad.github.io/attralita
